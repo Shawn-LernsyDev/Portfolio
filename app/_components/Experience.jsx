@@ -4,22 +4,22 @@ import { BriefcaseIcon } from 'lucide-react';
 const Experience = () => {
   const experiences = [
     {
-      role: "Senior Software Engineer",
-      company: "Tech Corp",
-      period: "2022 - Present",
+      role: "Applications Developer (Dynamics 365 Business Central)",
+      company: "Teclogix Solutions Limited",
+      period: "February, 2025 - Present",
       description: "Led development of core products and mentored junior developers."
     },
     {
       role: "Software Engineer",
-      company: "Innovation Labs",
-      period: "2020 - 2022",
-      description: "Built scalable web applications using React and Node.js."
+      company: "Call Center International Kenya",
+      period: "November, 2023 – January, 2025",
+      description: "• I address receipt complaint and request to confirm their integrity under Instacart"
     },
     {
-      role: "Junior Developer",
-      company: "StartUp Inc",
-      period: "2018 - 2020",
-      description: "Developed and maintained client-facing applications."
+      role: "Intern",
+      company: "Kenyatta National Hospital",
+      period: "May, 2023 - July, 2023",
+      description: "User support in both Hardware and Software Issues, including the Hospital Management System and Network infrastructure."
     }
   ];
 

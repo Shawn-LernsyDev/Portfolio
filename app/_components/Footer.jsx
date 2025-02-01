@@ -7,12 +7,12 @@ const data = [
     {
         title: 'Email',
         icon: <Mail className="w-full h-full text-blue-600" />,
-        href: 'mailto:abdishakoor145@gmail.com',
+        href: 'mailto:otienoshawn9349@gmail.com',
     },
     {
         title: 'GitHub',
         icon: <GitHubLogoIcon className="w-full h-full text-gray-800" />,
-        href: 'https://github.com/abdishakoorx',
+        href: 'https://github.com/Shawn-LernsyDev',
     },
     {
         title: 'LinkedIn',
@@ -22,7 +22,7 @@ const data = [
     {
         title: 'Download CV',
         icon: <FileDown className="w-full h-full text-green-600" />,
-        href: '/ABDISHAKOOR_HASSAN_CV.pdf',
+        href: '/SHAWN_RICHARDS_OTIENO.pdf',
         download: true,
     },
 ];

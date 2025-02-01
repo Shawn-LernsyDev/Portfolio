@@ -7,24 +7,24 @@ import { GitHubLogoIcon } from '@radix-ui/react-icons';
 const Projects = () => {
   const projects = [
     {
-      title: "Secure Chat App",
-      description: "End-to-end encrypted chat application built with React and Node.js. Features real-time messaging and file sharing with military-grade encryption.",
-      image: "/api/placeholder/400/200",
-      github: "https://github.com/yourusername/project1",
+      title: "Nirvana Eatery Application",
+      description: "This is a mobile appliaction that allows clients to order food from a local eatery",
+      image: "/nirvana_eatery_logo.png",
+      github: "https://github.com/Shawn-LernsyDev/Eatery-FoodOrdering-Application",
       demo: "https://demo-link-1.com"
     },
     {
-      title: "Portfolio Scanner",
-      description: "Automated security scanner for web applications. Identifies vulnerabilities and provides detailed reports with remediation steps.",
-      image: "/api/placeholder/400/200",
-      github: "https://github.com/yourusername/project2",
+      title: "Lernsy",
+      description: "This is a mobile application that reserves Cinema seats and also has more interesting features.",
+      image: "/1.png",
+      github: "https://github.com/Shawn-LernsyDev/Lernsy-Cinema",
       demo: "https://demo-link-2.com"
     },
     {
-      title: "Crypto Tracker",
-      description: "Real-time cryptocurrency tracking dashboard with price alerts and portfolio management features.",
-      image: "/api/placeholder/400/200",
-      github: "https://github.com/yourusername/project3",
+      title: "Cyber Security Playbook",
+      description: "This is a comprehensive, structured guide designed to help organizations manage and respond to cyber threats effectively. It outlines a set of predefined actions, procedures, and protocols to follow during a security incident or breach.",
+      image: "/image.png",
+      github: "https://azure-buttercup-bcb.notion.site/SHAWN-S-CYBER-SECURITY-PLAYBOOK-59f89e654055459ea22ef0b9fd8149da?pvs=4", //Notion
       demo: "https://demo-link-3.com"
     }
   ];
