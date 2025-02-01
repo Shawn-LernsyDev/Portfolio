@@ -29,7 +29,7 @@ const About = () => {
             {/* Image container */}
             <div className="absolute inset-0 overflow-hidden rounded-[60px]">
               <img
-                src="/api/placeholder/400/400"
+                src="/sexxyyy.jpg"
                 alt="Profile"
                 className="w-full h-full object-cover"
               />
