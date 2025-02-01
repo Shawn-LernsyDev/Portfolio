@@ -15,14 +15,14 @@ const data = [
         href: 'https://github.com/Shawn-LernsyDev',
     },
     {
-        title: 'LinkedIn',
+        title: 'TryHackMe',
         icon: <LinkedInLogoIcon className="w-full h-full text-blue-700" />,
-        href: 'https://linkedin.com/in/abdishakoorx',
+        href: 'https://tryhackme.com/r/p/otienoshawn9349',
     },
     {
         title: 'Download CV',
         icon: <FileDown className="w-full h-full text-green-600" />,
-        href: '/SHAWN_RICHARDS_OTIENO.pdf',
+        href: '/SHAWN_RICHARDS_OTIENO_CV.pdf',
         download: true,
     },
 ];
